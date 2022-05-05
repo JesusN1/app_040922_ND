@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PanaJuan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Chuwapad Confirmed</string>
+    <string name="nav_header_subtitle">NAVIGATION DREAWER ACTIVITY</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_menuPrincipal">Principal</string>
+    <string name="menu_calculadora">Calculadora</string>
+    <string name="menu_sonidos">Musica</string>
+    <string name="menu_sitioweb">Sitio Web</string>
+    <string name="menu_abriraplicaciones">Aplicaciones</string>
+    <string name="menu_maravillasmodernas">Maravillas Modernas</string>
+    <string name="menu_mapa">Mapa</string>
+
+    <string name="Contenido_menu">Esta aplicacion contiene algunas funciones como calculadora, musica, busqueda web, etc</string>
+    <string name="explicacion">Para ver las aplicaciones presiona en la parte superior izquierda</string>
+
+    <string name="Chichén_Itzá">Consistió en una ciudad o un centro ceremonial, que pasó por diversas épocas constructivas e influencias de los distintos pueblos que la ocuparon y que la impulsaron desde su fundación.</string>
+    <string name="Coliseo">El Coliseo o Anfiteatro Flavio (en latín Colosseum, en italiano Colosseo) es un anfiteatro de la época del Imperio romano, construido en el siglo I. Está ubicado en el este del Foro Romano, y fue el más grande de los que se construyeron en el Imperio romano.</string>
+    <string name="Cristo_Redentor">El Cristo del Corcovado, es uno de los atractivos turísticos más importantes de Brasil y, para los creyentes, un lugar de peregrinación. Al cumplirse los 80 años de su inauguración, en 2011, se celebró una exposición que repasa la historia del monumento y, sobre todo, cómo esta estatua se ha convertido en punto de referencia para los brasileños e inspiración para sus artistas.</string>
+    <string name="Gran_Muralla_China">La Gran Muralla China es una antigua fortificación china, construida y reconstruida entre el siglo v a. C. y el siglo xvi para proteger la frontera norte del Imperio chino durante las sucesivas dinastías imperiales de los ataques de los nómadas xiongnu de Mongolia y Manchuria.</string>
+    <string name="Machu_Picchu">Descubierta en el año 1902 por Agustín Lizárraga y dada a conocer al mundo en 1911 por Hiram Bingham, la ciudad “perdida” de los Incas fue construida a mediados del siglo XV d. C por órdenes del Inca Pachacútec. Si bien este centro arqueológico no tiene nombre, Machu Picchu, la montaña donde se encuentra ubicada, significa en quechua “Montaña Vieja”. Según investigaciones, este lugar servía como un espacio de reposo para el Inca y estaba destinado a albergar un aproximado de 300 personas.</string>
+    <string name="Petra">El asentamiento de Petra se localiza en un valle angosto, al este del valle de la Aravá que se extiende desde el mar Muerto hasta el Golfo de Aqaba. Los restos más célebres de Petra son sin duda sus construcciones labradas en la misma roca del valle (hemispeos), en particular, los edificios conocidos como el Khazneh (‘el Tesoro’) y el Deir (‘el Monasterio’).</string>
+</resources>

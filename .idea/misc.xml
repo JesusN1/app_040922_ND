@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.208" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/drawable/ic_calculadora_24.xml" value="0.208" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.208" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/drawable/ic_sonidos_24.xml" value="0.208" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/drawable/side_nav_bar.xml" value="0.208" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/activity_main.xml" value="0.3463541666666667" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/activity_splash.xml" value="0.26875" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/app_bar_main.xml" value="0.3463541666666667" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/content_main.xml" value="0.34057971014492755" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/fragment_abriraplicaciones.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/fragment_calculadora.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/fragment_gallery.xml" value="0.3463541666666667" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/fragment_home.xml" value="0.3463541666666667" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/fragment_mainmenu.xml" value="0.25" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/fragment_maravillasmodernas.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/fragment_sitioweb.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/fragment_slideshow.xml" value="0.3463541666666667" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/fragment_sonidos.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/fragment_visualizador3d.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/layout/nav_header_main.xml" value="0.3463541666666667" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/menu/activity_main_drawer.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/MK/AndroidStudioProjects/app_040922_ND/app/src/main/res/menu/main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/Yi-sus/Desktop/PanaJuan/app/src/main/res/layout/activity_splash.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Desktop/PanaJuan/app/src/main/res/layout/content_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Desktop/PanaJuan/app/src/main/res/layout/fragment_aplicaciones.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Desktop/PanaJuan/app/src/main/res/layout/fragment_mainmenu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Desktop/PanaJuan/app/src/main/res/layout/fragment_sitioweb.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/drawable/ic_abriraplicaciones_24.xml" value="0.1555" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/drawable/ic_baseline_directions_walk_24.xml" value="0.1555" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/drawable/ic_calculadora_24.xml" value="0.1555" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1555" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/drawable/ic_mainmenu_24.xml" value="0.1555" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/drawable/ic_maravillasmodernas_24.xml" value="0.1555" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/drawable/ic_menumain_24.xml" value="0.1555" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/drawable/ic_sitioweb_24.xml" value="0.1555" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/drawable/side_nav_bar.xml" value="0.1555" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/layout/activity_splash.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/layout/app_bar_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/layout/content_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/layout/fragment_abriraplicaciones.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/layout/fragment_calculadora.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/layout/fragment_mainmenu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/layout/fragment_mapa.xml" value="0.26875" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/layout/fragment_maravillasmodernas.xml" value="0.22421908429610612" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/layout/fragment_sitioweb.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/layout/fragment_sonidos.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/layout/fragment_visualizador3d.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/layout/nav_header_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/menu/activity_main_drawer.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/menu/main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Yi-sus/Downloads/app_040922_ND/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.136" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

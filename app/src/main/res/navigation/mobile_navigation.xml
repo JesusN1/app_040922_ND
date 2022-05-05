@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_menuPrincipal">
+
+    <fragment
+        android:id="@+id/nav_menuPrincipal"
+        android:name="com.example.app_040922_nd.ui.mainmenu.MainMenuFragment"
+        android:label="@string/menu_menuPrincipal"
+        tools:layout="@layout/fragment_mainmenu" />
+    <fragment
+        android:id="@+id/nav_calculadora"
+        android:name="com.example.app_040922_nd.ui.calculadora.CalculadoraFragment"
+        android:label="@string/menu_calculadora"
+        tools:layout="@layout/fragment_calculadora" />
+    <fragment
+        android:id="@+id/nav_sonidos"
+        android:name="com.example.app_040922_nd.ui.sonidos.SonidosFragment"
+        android:label="@string/menu_sonidos"
+        tools:layout="@layout/fragment_sonidos" />
+    <fragment
+        android:id="@+id/nav_sitioweb"
+        android:name="com.example.app_040922_nd.ui.sitioweb.SitioWebFragment"
+        android:label="@string/menu_sitioweb"
+        tools:layout="@layout/fragment_sitioweb" />
+    <fragment
+        android:id="@+id/nav_abriraplicaciones"
+        android:name="com.example.app_040922_nd.ui.aplicaciones.aplicacionesFragment"
+        android:label="@string/menu_abriraplicaciones"
+        tools:layout="@layout/fragment_aplicaciones" />
+    <fragment
+        android:id="@+id/nav_maravillasmodernas"
+        android:name="com.example.app_040922_nd.ui.maravillasmodernas.MaravillasModernasFragment"
+        android:label="@string/menu_maravillasmodernas"
+        tools:layout="@layout/fragment_maravillasmodernas" />
+    <fragment
+        android:id="@+id/nav_visualizador3d"
+        android:name="com.example.app_040922_nd.ui.mapa.MapaFragment"
+        android:label="@string/menu_mapa"
+        tools:layout="@layout/fragment_mapa" />
+</navigation>

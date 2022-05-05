@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".ui.sitioweb.SitioWebFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_x="138dp"
+        android:layout_y="326dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/edt_url"
+                android:layout_width="310dp"
+                android:layout_height="50dp"
+                android:textColor="@color/white"
+                android:hint="Ingresa una URL"
+                android:textColorHint="#9EFFF7F7"
+                android:inputType="text"/>
+            <Button
+                android:id="@+id/btn_buscar"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:text="🔍︎"
+                app:cornerRadius="50dp"
+                android:backgroundTint="#7200FFE9"/>
+        </LinearLayout>
+
+        <WebView
+            android:id="@+id/webv"
+            android:layout_width="match_parent"
+            android:layout_height="656dp"></WebView>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

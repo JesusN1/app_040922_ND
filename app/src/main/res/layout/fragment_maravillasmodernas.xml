@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondotres"
+    tools:context=".ui.maravillasmodernas.MaravillasModernasFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="230dp"
+                android:alpha=".80"
+                app:srcCompat="@drawable/primeramara" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Chichén Itzá"
+                android:textSize="20dp"
+                android:fontFamily="@font/montserrat_alternates_light"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="142dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:text="@string/Chichén_Itzá"
+                android:textSize="20dp"
+                tools:layout_editor_absoluteX="142dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="230dp"
+                android:alpha=".80"
+                app:srcCompat="@drawable/segundamara" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Coliseo"
+                android:textSize="20dp"
+                android:fontFamily="@font/montserrat_alternates_light"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="142dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/Coliseo"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                tools:layout_editor_absoluteX="142dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="230dp"
+                android:alpha=".80"
+                app:srcCompat="@drawable/terceramara" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Cristo Redentor"
+                android:textSize="20dp"
+                android:fontFamily="@font/montserrat_alternates_light"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="142dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:text="@string/Cristo_Redentor"
+                android:textSize="20dp"
+                tools:layout_editor_absoluteX="142dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="230dp"
+                android:alpha=".80"
+                app:srcCompat="@drawable/cuartamara" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Gran Muralla China"
+                android:textSize="20dp"
+                android:fontFamily="@font/montserrat_alternates_light"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="142dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:text="@string/Gran_Muralla_China"
+                android:textSize="20dp"
+                tools:layout_editor_absoluteX="142dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="230dp"
+                android:alpha=".80"
+                app:srcCompat="@drawable/quintamara" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Machu Picchu"
+                android:textSize="20dp"
+                android:fontFamily="@font/montserrat_alternates_light"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="142dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:text="@string/Machu_Picchu"
+                android:textSize="20dp"
+                tools:layout_editor_absoluteX="142dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="230dp"
+                android:alpha=".80"
+                app:srcCompat="@drawable/sextamara" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Petra"
+                android:textSize="20dp"
+                android:fontFamily="@font/montserrat_alternates_light"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="142dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:text="@string/Petra"
+                android:textSize="20dp"
+                tools:layout_editor_absoluteX="142dp" />
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
